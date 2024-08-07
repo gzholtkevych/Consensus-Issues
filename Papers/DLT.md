@@ -8,7 +8,7 @@ The most known example of DLT is a blockchain, but the technology can also be us
 # Key characteristics of a Distributed Ledger
 
 - *Decentralization*. Nobody can control a ledger without cooperation with interested entities (referred to as ***participants*** further).
-- *Distribution*. ***Replicies*** (or copies) of the ledger are stored in the individual isolated memory of each participant.
+- *Distribution*. ***Replicies*** (or copies perhaps partial) of the ledger are stored in the individual isolated memory of each participant.
 - *Immutability*. After any data unit has been recorded, it cannot be edited or removed.
 - *Transparency*. All participants have access to view the ledger's contents.
 - *Security*. The integrity of stored data is protected with cryptography methods.
